@@ -1,4 +1,5 @@
 # Augmented random search implementation for BipedalWalker-v2 environmnet
+# for School of AI move37 course
 
 import gym
 import numpy as np
